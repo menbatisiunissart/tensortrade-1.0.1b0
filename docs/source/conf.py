@@ -70,7 +70,6 @@ apidoc_extra_args = ['-d 6']
 
 # mock imports
 autodoc_mock_imports = [
-    'tensorflow',
     'keras',
     'tensorforce',
     'ccxt',
